@@ -45,16 +45,16 @@ export function Room() {
             isAnswered: false
         }
 
-        await database.ref(`rooms/${roomId}/question`).push(question);
+        await database.ref(`rooms/${roomId}/questions`).push(question);
 
         setNewQuestion('');
     }
 
     async function handleLikeQuestion(questionId: string, likeId: string | undefined) {
         if (likeId) {
-            await database.ref(`rooms/${roomId}/question/${questionId}/likes/${likeId}`).remove()
+            await database.ref(`rooms/${roomId}/questions/${questionId}/likes/${likeId}`).remove()
         } else {
-            await database.ref(`rooms/${roomId}/question/${questionId}/likes`).push({
+            await database.ref(`rooms/${roomId}/questions/${questionId}/likes`).push({
                 authorId: user?.id,
             })
         }
@@ -72,7 +72,7 @@ export function Room() {
             <main>
                 <div className="room-title">
                     <h1>Sala {title} </h1>
-                    {questions.length > 0 && <span>{questions.length} pergunta(s)</span>}
+                    {questions.length >= 0 && <span>{questions.length} pergunta(s)</span>}
                 </div>
 
                 <form onSubmit={handleSendQuestion}>

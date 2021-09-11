@@ -54,7 +54,7 @@ export function useRoom(roomId: string) {
             })
 
             setTitle(databaseRoom.title);
-            setNewQuestions(parseQuestions)
+            setNewQuestions(parseQuestions);
         })
 
         return () => {
