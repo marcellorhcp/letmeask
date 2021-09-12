@@ -2,6 +2,10 @@
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
 
+<h1 align="center">
+    <img alt="Letmeask" src=".github/cover.svg" />
+</h1>
+
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 20 a 27 de Junho de 2021.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
