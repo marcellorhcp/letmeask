@@ -1,6 +1,12 @@
 # letmeask
-Projeto NLW (Next Level Week) Together da Rocketseat- Construindo uma aplicação do zero utilizando ReactJS 
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021.
 
-<p align="center">
-  <img alt="Letmeask" src=".github/logo.svg" width="160px">
-</p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+
+
