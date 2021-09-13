@@ -6,9 +6,11 @@
     <img alt="Letmeask" src=".github/cover.svg" />
 </h1>
 
-Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 20 a 27 de Junho de 2021.
+Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 20 a 27 de Junho de 2021 pela **[Rocketseat](https://rocketseat.com.br/)**
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## Tecnologias
+
+Foram utilizadas as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
