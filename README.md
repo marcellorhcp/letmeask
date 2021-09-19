@@ -6,19 +6,19 @@
     <img alt="Letmeask" src=".github/cover.svg" />
 </h1>
 
-## 💻 Projeto
-
 Este é um projeto desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada nos dias 20 a 27 de Junho de 2021 pela **[Rocketseat](https://rocketseat.com.br/)**
 
-## Tecnologias
+## 💻 Projeto
+
+Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
+
+## ✨ Tecnologias
 
 Foram utilizadas as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
-
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
 ## 🚀 Como executar
 
